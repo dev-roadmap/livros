@@ -66,6 +66,18 @@ O livro irá abordar temas em todas as áreas do desenvolvimento. Desde como voc
 
 Livro texto de praticamente toda matéria de sistemas distribuidos. Como eu NÃO tive essa matéria na UNICAMP, resolvi ler. Excelente, irá detalhar todos os desafios de se construir sistemas distribuídos. Recomendável para qualquer desenvolvedor backend que quer ter ciência do real desafio.
 
+== Documenting Software Architectures: Views and Beyond 
+
+=== Onde comprar?
+- https://amzn.to/3hsDm0J[Amazon]
+
+=== Leitura
+- _Status_: NaN/537
+
+=== Resenha
+
+Depois de ler alguns capitulos desse livro nunca mais escrevi documentação como antes. Comprei pra escrever a documentação de uma plataforma que desenvolvi como arquiteto, o feedback de quem está usando é ótimo. Consegui abrager todas as necessidades e não sou necessário para suporte e desenvolvimento em cima da plataforma.
+
 == Domain-Driven Design: Atacando as Complexidades no Coração do Software
 
 === Onde comprar?

@@ -1,8 +1,9 @@
 = Livros Recomendados
+:toc: left
+:language: asciidoc
+:docref: link:/docs
 
 Alguns livros recomendados com um breve resumo
-
-:toc:
 
 == Domain-Driven Design: Atacando as Complexidades no Coração do Software
 

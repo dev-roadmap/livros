@@ -130,6 +130,18 @@ O livro trará uma série de artigos sobre Engenheria de Software. Muitos deles 
 === Resenha
 É um livro sensacional! Quem quer conhecer DevOps deve ler ele. Ao começar pensava que esses conceitos eram nativos da Computação, mas vi que são conceitos da industria aplicados a computação. Esse livro vai ter dar uma boa visão desses conceitos e como eles podem ser aplicados. Você não vai aprender nada prático, mas será muito mais útil do que você imagina. **Recomendável!!!**
 
+== Software Architecture in Practice 
+
+=== Onde comprar?
+- https://amzn.to/3huvD1X[Amazon]
+
+=== Leitura
+- _Status_: 119/640 
+
+== Resenha
+
+Quer ser Arquiteto de Software? Então essa série é um requisito pra você! Encare como livros de consulta e leia tanto alguns temas avulsos como em ordem. Ele vai tratar de todas as funções de um Arquiteto. Meu primeiro susto foi ao começar a ler descobri que a função do Arquiteto é fazer o projeto ter aderência ao desejo de TODOS OS Stakeholders.
+
 == The Art of Computer Programming
 === Onde comprar?
 - https://amzn.to/2KFLT4x[Amazon]

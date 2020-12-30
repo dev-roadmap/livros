@@ -83,6 +83,17 @@ O primeiro tópico do livro vai tratar de Linguagem Onipresente, em resumo preci
 
 O livro irá focar no que é necessário para se colocar um microserço em produção. Não há padrão de microserviços, mas há um bom detalhamento do que Escalabilidade/Observalidade. Também ajudará a construir um checklist de como avaliar seu microserviços. Altamente recomendável para quem é Arquiteto de Software.
 
+== O Mítico Homem-mês: Ensaios Sobre Engenharia de Software
+
+=== Onde comprar?
+- https://amzn.to/38RNvjH[Amazon]
+
+=== Leitura
+- _Status_: NaN/320
+
+=== Resenha
+
+O livro trará uma série de artigos sobre Engenheria de Software. Muitos deles são históricos e alguns você até já conhece por serem praticamente mitologicos. Já ouviu a frase _Não existe bala de prata_, pois é, é um artigo. Muito recomendável para qualquer um que vá se aventurar pela gerência de projetos de desenvolvimento de software. Se seu Agile Coach não leu, fala que ele não manja de nada!
 
 == The Art of Computer Programming
 === Onde comprar?

@@ -46,3 +46,14 @@ O livro é excelente. Irá tratar do Design do seu código. Te ajudará a respon
 * Como faço a separação de funcionalidades?
 
 O primeiro tópico do livro vai tratar de Linguagem Onipresente, em resumo precisamos construir uma linguagem onipresente ao desenvolver software. Desenvolvedores e Analistas de negócio não falam a mesma linguagem, mas termos e ações precisam ser definidos para ambos estarem alinhados.
+
+== The Pragmatic Programmer: your journey to mastery
+=== Onde comprar?
+- https://amzn.to/3rIqbgT[Amazon]
+
+=== Leitura
+- _Status_: 174/352
+
+=== Resenha
+
+O livro irá focar na filosofia de vida de um desenvolvedor. Não é um livro que te ensinará técnicas de desenvolvimento, mas te dará insights muitos valiosos para sua vida profissional. Um que eu já conhecia era o "_Don't live a broken window_" que é a filosofia de sempre consertar os erros que são visiveis em um projeto. Quanto mais erros em um projeto, mais a moral do time vai ser abalada e mais erros o time gerará. **Recomendado!!**

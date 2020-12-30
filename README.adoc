@@ -5,6 +5,19 @@
 
 Alguns livros recomendados com um breve resumo
 
+== Como ser um Programador Melhor: um Manual Para Programadores que se Importam com Código 
+
+=== Onde comprar?
+- https://amzn.to/3aTZsrv[Amazon]
+
+=== Leitura
+- _Status_: 118/374
+
+=== Resenha
+
+O livro irá abordar temas em todas as áreas do desenvolvimento. Desde como você organiza seu código até como fazer debug. Super recomendado.
+
+
 == Domain-Driven Design: Atacando as Complexidades no Coração do Software
 
 === Onde comprar?

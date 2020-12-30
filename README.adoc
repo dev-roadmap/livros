@@ -107,6 +107,17 @@ O livro irá focar no que é necessário para se colocar um microserço em produ
 
 O livro trará uma série de artigos sobre Engenheria de Software. Muitos deles são históricos e alguns você até já conhece por serem praticamente mitologicos. Já ouviu a frase _Não existe bala de prata_, pois é, é um artigo. Muito recomendável para qualquer um que vá se aventurar pela gerência de projetos de desenvolvimento de software. Se seu Agile Coach não leu, fala que ele não manja de nada!
 
+== O Projeto Fênix: um Romance Sobre TI, DevOps e Sobre Ajudar o seu Negócio a Vencer
+
+=== Onde comprar?
+- https://amzn.to/3aRdlH3[Amazon]
+
+=== Leitura
+- _Status_: 384/384 
+
+=== Resenha
+É um livro sensacional! Quem quer conhecer DevOps deve ler ele. Ao começar pensava que esses conceitos eram nativos da Computação, mas vi que são conceitos da industria aplicados a computação. Esse livro vai ter dar uma boa visão desses conceitos e como eles podem ser aplicados. Você não vai aprender nada prático, mas será muito mais útil do que você imagina. **Recomendável!!!**
+
 == The Art of Computer Programming
 === Onde comprar?
 - https://amzn.to/2KFLT4x[Amazon]

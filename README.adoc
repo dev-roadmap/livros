@@ -1,12 +1,16 @@
-# Livros Recomendados
+= Livros Recomendados
 
 Alguns livros recomendados com um breve resumo
 
-## Domain-Driven Design: Atacando as Complexidades no Coração do Software
+== Domain-Driven Design: Atacando as Complexidades no Coração do Software
 
-* [Amazon](https://amzn.to/3mVmXms)
-* _Status_: 116/484
+=== Onde comprar?
+- [Amazon](https://amzn.to/3mVmXms)
 
+=== Leitura
+- _Status_: 116/484
+
+=== Resenha
 O livro é excelente. Irá tratar do Design do seu código. Te ajudará a responder perguntas como: 
 
 * O que é domínio?

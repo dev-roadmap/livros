@@ -1,5 +1,6 @@
 = Livros Recomendados
 :toc: left
+:toclevels: 1
 :language: asciidoc
 :docref: link:/docs
 

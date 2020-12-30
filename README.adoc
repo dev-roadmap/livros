@@ -2,10 +2,12 @@
 
 Alguns livros recomendados com um breve resumo
 
+:toc:
+
 == Domain-Driven Design: Atacando as Complexidades no Coração do Software
 
 === Onde comprar?
-- [Amazon](https://amzn.to/3mVmXms)
+- https://amzn.to/3mVmXms[Amazon]
 
 === Leitura
 - _Status_: 116/484

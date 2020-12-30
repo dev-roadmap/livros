@@ -58,6 +58,18 @@ O livro é excelente. Irá tratar do Design do seu código. Te ajudará a respon
 
 O primeiro tópico do livro vai tratar de Linguagem Onipresente, em resumo precisamos construir uma linguagem onipresente ao desenvolver software. Desenvolvedores e Analistas de negócio não falam a mesma linguagem, mas termos e ações precisam ser definidos para ambos estarem alinhados.
 
+== An Introduction to Lte: Lte, Lte-Advanced, Sae, Volte and 4g Mobile Communications
+
+=== Onde comprar?
+- https://amzn.to/2JvohyK[Amazon]
+
+=== Leitura
+- _Status_: 486/486 
+
+=== Resenha
+
+Detalha toda infraestrutura da comunicação 4G. Foi muito útil para eu conseguir entender como funciona a rede e quais os desafios que iria encarar ao migrar minha carreira para Engenheiro Telecom/Computação. Para quem vai trabalhar com sinais é bem detalhado, mas para quem vai detalhar com os fluxo de Charging/Policy não é detalhado.
+
 == The Art of Computer Programming
 === Onde comprar?
 - https://amzn.to/2KFLT4x[Amazon]

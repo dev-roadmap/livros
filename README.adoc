@@ -71,6 +71,18 @@ O livro é excelente. Irá tratar do Design do seu código. Te ajudará a respon
 
 O primeiro tópico do livro vai tratar de Linguagem Onipresente, em resumo precisamos construir uma linguagem onipresente ao desenvolver software. Desenvolvedores e Analistas de negócio não falam a mesma linguagem, mas termos e ações precisam ser definidos para ambos estarem alinhados.
 
+== Introdução à arquitetura de design de software
+
+=== Onde comprar?
+- https://amzn.to/38L1W93[Amazon] 
+
+=== Leitura
+- _Status_: 280/280
+
+=== Resenha 
+
+O livro é sobre Arquitetura Java. Apesar de precisa de uma atualização, ainda é valido por apresentar um pouco de como a JVM funciona e de alguns padrões que são bem utilizados. Recomendável para quem deseja ser Arquiteto Java.
+
 == Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software
 
 === Onde comprar?

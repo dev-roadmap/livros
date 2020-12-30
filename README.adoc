@@ -3,7 +3,7 @@
 :language: asciidoc
 :docref: link:/docs
 
-Alguns livros recomendados com um breve resumo
+Alguns livros recomendados com um breve resumo. Você verá que muitos deles estão com a leitura incompleta, sim! Isso, eu assumo que deixo leituras e vou ler livros novos, e depois volto.
 
 == Algoritmos Funcionais: Introdução minimalista à logica de programação funcional pura aplicada à teoria dos conjuntos
 
@@ -69,6 +69,19 @@ O livro é excelente. Irá tratar do Design do seu código. Te ajudará a respon
 * Como faço a separação de funcionalidades?
 
 O primeiro tópico do livro vai tratar de Linguagem Onipresente, em resumo precisamos construir uma linguagem onipresente ao desenvolver software. Desenvolvedores e Analistas de negócio não falam a mesma linguagem, mas termos e ações precisam ser definidos para ambos estarem alinhados.
+
+== Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software
+
+=== Onde comprar?
+- https://amzn.to/2WZETSi[Amazon]
+
+=== Leitura
+- _Status_: 88/224
+
+=== Resenha
+
+O livro irá focar no que é necessário para se colocar um microserço em produção. Não há padrão de microserviços, mas há um bom detalhamento do que Escalabilidade/Observalidade. Também ajudará a construir um checklist de como avaliar seu microserviços. Altamente recomendável para quem é Arquiteto de Software.
+
 
 == The Art of Computer Programming
 === Onde comprar?

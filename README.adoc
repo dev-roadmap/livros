@@ -30,6 +30,18 @@ N/A
 
 Detalha toda infraestrutura da comunicação 4G. Foi muito útil para eu conseguir entender como funciona a rede e quais os desafios que iria encarar ao migrar minha carreira para Engenheiro Telecom/Computação. Para quem vai trabalhar com sinais é bem detalhado, mas para quem vai detalhar com os fluxo de Charging/Policy não é detalhado.
 
+== Código Limpo: Habilidades Práticas do Agile Software
+
+=== Onde comprar?
+- https://amzn.to/3hunzOG[Amazon]
+
+=== Leitura
+- _Status_:  456/456 
+
+=== Resenha
+
+O livro irá tratar de como você deve escrever código. Ele é bom, mas deve ser usado com parcimônia. Uncle Bob é meio extremista em alguns assuntos. Recomendo ler e ser crítico, mas esse é o conselho pra qualquer livro. A melhor parte é sobre nomenclatura, depois de ler eu nunca mais escrevi código como antigamente. Sobre comentários, eu discordo dele.
+
 == Como ser um Programador Melhor: um Manual Para Programadores que se Importam com Código 
 
 === Onde comprar?

@@ -11,7 +11,7 @@ Alguns livros recomendados com um breve resumo
 - https://amzn.to/34XxRSr[Amazon]
 - https://www.altabooks.com.br/produto/algoritmos-funcionais/[Alta Books]
 
-== Leitura
+=== Leitura
 - _Status_: 34/213
 
 === Resenha
@@ -57,6 +57,17 @@ O livro é excelente. Irá tratar do Design do seu código. Te ajudará a respon
 * Como faço a separação de funcionalidades?
 
 O primeiro tópico do livro vai tratar de Linguagem Onipresente, em resumo precisamos construir uma linguagem onipresente ao desenvolver software. Desenvolvedores e Analistas de negócio não falam a mesma linguagem, mas termos e ações precisam ser definidos para ambos estarem alinhados.
+
+== The Art of Computer Programming
+=== Onde comprar?
+- https://amzn.to/2KFLT4x[Amazon]
+
+=== Leitura
+- _Status_: NaN/3168
+
+=== Resenha
+
+É uma obra prima. Comprei a primeira edição dele e era voltada para explicar como o processador lidava com linguagem de máquina. Falava de como contas são feitas usando números binários. Mas ao comprar a edição _ainda não definitiva_ levei um susto, a primeira edição foi transformada para falar de algoritmos! Muito válido, mas recomendo só se você quer se tornar o Mestre Jedi Supremo.
 
 == The Pragmatic Programmer: your journey to mastery
 === Onde comprar?

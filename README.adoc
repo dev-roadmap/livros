@@ -54,16 +54,26 @@ O livro irá tratar de como você deve escrever código. Ele é bom, mas deve se
 
 O livro irá abordar temas em todas as áreas do desenvolvimento. Desde como você organiza seu código até como fazer debug. Super recomendado.
 
-== Distributed Systems
+== Deep Learning: A Practitioner's Approach
+
+=== Onde comprar?
+- https://amzn.to/2JwAm6M[Amazon]
 
 === Leitura
-- _Status_: 152/598 
+- _Status_: 152/536
+
+=== Resenha
+O livro vai dar uma boa base teórica e matematica para o assunto Deep Learning. Isso por si só vale o livro, foi até o ponto que li. Depois irá apresentar como usar Deep Learning com https://deeplearning4j.org/[Deeplearning4j]. Recomendo para quem quer se apronfundar no assunto.
+
+== Distributed Systems
 
 === Onde comprar?
 - https://amzn.to/381XvY4[Amazon]
 
-=== Resenha
+=== Leitura
+- _Status_: 152/598 
 
+=== Resenha
 Livro texto de praticamente toda matéria de sistemas distribuidos. Como eu NÃO tive essa matéria na UNICAMP, resolvi ler. Excelente, irá detalhar todos os desafios de se construir sistemas distribuídos. Recomendável para qualquer desenvolvedor backend que quer ter ciência do real desafio.
 
 == Documenting Software Architectures: Views and Beyond 
@@ -141,6 +151,16 @@ Você conhece o sistema de modularidade do Java 9? E sabia que o Java já tinha 
 
 === Resenha
 Você é um desenvolvedor Java? Caso seja essa é uma leitura que você tem que fazer! É um livro de consulta também, infelizmente eu não o tenho, pertencia a empresa que trabalhei como Arquiteto Java. O livro parte de alguns problemas e vai detalhando qual a melhor forma de resolver esses problemas. Serialização? Porque implementar equals e hashCode? **Altamente Recomendável!**
+
+== Machine Learning for Hackers: Case Studies and Algorithms to Get You Started
+=== Onde comprar?
+- https://amzn.to/2WXAzTB[Amazon]
+
+=== Leitura
+- _Status_: 0/303
+
+=== Resenha
+N/A
 
 == Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software
 

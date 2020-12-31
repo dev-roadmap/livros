@@ -119,6 +119,18 @@ Clássicos não precisam de resenhas. Foi o livro texto do meu Nano-degree em IA
 
 O livro é sobre Arquitetura Java. Apesar de precisa de uma atualização, ainda é valido por apresentar um pouco de como a JVM funciona e de alguns padrões que são bem utilizados. Recomendável para quem deseja ser Arquiteto Java.
 
+== Java Efetivo: as Melhores Práticas Para a Plataforma Java
+
+=== Onde comprar?
+- https://amzn.to/3rIzr4D[Amazon]
+
+=== Leitura
+- _Status_: 432/432
+
+=== Resenha
+
+Você é um desenvolvedor Java? Caso seja essa é uma leitura que você tem que fazer! É um livro de consulta também, infelizmente eu não o tenho, pertencia a empresa que trabalhei como Arquiteto Java. O livro parte de alguns problemas e vai detalhando qual a melhor forma de resolver esses problemas. Serialização? Porque implementar equals e hashCode? **Altamente Recomendável!**
+
 == Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software
 
 === Onde comprar?

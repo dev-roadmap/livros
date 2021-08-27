@@ -13,7 +13,7 @@ Alguns livros recomendados com um breve resumo. Você verá que muitos deles est
 - https://www.altabooks.com.br/produto/algoritmos-funcionais/[Alta Books]
 
 === Leitura
-- _Status_: 34/213
+- _Status_: 213/213
 
 === Resenha
 N/A
@@ -237,7 +237,7 @@ Quer ser Arquiteto de Software? Então essa série é um requisito pra você! En
 - https://amzn.to/3rIqbgT[Amazon]
 
 === Leitura
-- _Status_: 174/352
+- _Status_: 352/352
 
 === Resenha
 

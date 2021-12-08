@@ -33,7 +33,7 @@ Detalha toda infraestrutura da comunicação 4G. Foi muito útil para eu consegu
 == Código Limpo: Habilidades Práticas do Agile Software
 
 === Onde comprar?
-- https://amzn.to/3hunzOG[Amazon]
+- https://amzn.to/3pzPwJG[Amazon]
 
 === Leitura
 - _Status_:  456/456 
@@ -45,7 +45,7 @@ O livro irá tratar de como você deve escrever código. Ele é bom, mas deve se
 == Como ser um Programador Melhor: um Manual Para Programadores que se Importam com Código 
 
 === Onde comprar?
-- https://amzn.to/3aTZsrv[Amazon]
+- https://amzn.to/3rMUlSj[Amazon]
 
 === Leitura
 - _Status_: 118/374
@@ -57,7 +57,7 @@ O livro irá abordar temas em todas as áreas do desenvolvimento. Desde como voc
 == Deep Learning: A Practitioner's Approach
 
 === Onde comprar?
-- https://amzn.to/2JwAm6M[Amazon]
+- https://amzn.to/3EwyQJ8[Amazon]
 
 === Leitura
 - _Status_: 152/536
@@ -68,7 +68,7 @@ O livro vai dar uma boa base teórica e matematica para o assunto Deep Learning.
 == Distributed Systems
 
 === Onde comprar?
-- https://amzn.to/381XvY4[Amazon]
+- https://amzn.to/3DzYCuE[Amazon]
 
 === Leitura
 - _Status_: 152/598 
@@ -79,7 +79,7 @@ Livro texto de praticamente toda matéria de sistemas distribuidos. Como eu NÃO
 == Documenting Software Architectures: Views and Beyond 
 
 === Onde comprar?
-- https://amzn.to/3hsDm0J[Amazon]
+- https://amzn.to/3dtMKjk[Amazon]
 
 === Leitura
 - _Status_: NaN/537
@@ -91,7 +91,7 @@ Depois de ler alguns capitulos desse livro nunca mais escrevi documentação com
 == Domain-Driven Design: Atacando as Complexidades no Coração do Software
 
 === Onde comprar?
-- https://amzn.to/3mVmXms[Amazon]
+- https://amzn.to/3oxQ2Z5[Amazon]
 
 === Leitura
 - _Status_: 116/484
@@ -108,7 +108,7 @@ O primeiro tópico do livro vai tratar de Linguagem Onipresente, em resumo preci
 == Inteligência Artificial
 
 === Onde comprar? 
-- https://amzn.to/3pyAPVq[Amazon]
+- https://amzn.to/304WGN8[Amazon]
 
 === Leitura
 - _Status_: NaN/1016 
@@ -120,7 +120,7 @@ Clássicos não precisam de resenhas. Foi o livro texto do meu Nano-degree em IA
 == Introdução à arquitetura de design de software
 
 === Onde comprar?
-- https://amzn.to/38L1W93[Amazon] 
+- https://amzn.to/3EAbPVG[Amazon] 
 
 === Leitura
 - _Status_: 280/280
@@ -132,7 +132,7 @@ O livro é sobre Arquitetura Java. Apesar de precisa de uma atualização, ainda
 == Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications
 
 === Onde comprar?
-- https://amzn.to/2KTa7bj[Amazon]
+- https://amzn.to/3dxv6va[Amazon]
 
 === Leitura
 - _Status_: 224/224
@@ -144,7 +144,7 @@ Você conhece o sistema de modularidade do Java 9? E sabia que o Java já tinha 
 == Java Efetivo: as Melhores Práticas Para a Plataforma Java
 
 === Onde comprar?
-- https://amzn.to/3rIzr4D[Amazon]
+- https://amzn.to/3rKj1ee[Amazon]
 
 === Leitura
 - _Status_: 432/432
@@ -154,7 +154,7 @@ Você é um desenvolvedor Java? Caso seja essa é uma leitura que você tem que 
 
 == Machine Learning for Hackers: Case Studies and Algorithms to Get You Started
 === Onde comprar?
-- https://amzn.to/2WXAzTB[Amazon]
+- https://amzn.to/3IydCx5[Amazon]
 
 === Leitura
 - _Status_: 0/303
@@ -165,7 +165,7 @@ N/A
 == Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software
 
 === Onde comprar?
-- https://amzn.to/2WZETSi[Amazon]
+- https://amzn.to/3pxdWDs[Amazon]
 
 === Leitura
 - _Status_: 88/224
@@ -177,7 +177,7 @@ O livro irá focar no que é necessário para se colocar um microserço em produ
 == O Mítico Homem-mês: Ensaios Sobre Engenharia de Software
 
 === Onde comprar?
-- https://amzn.to/38RNvjH[Amazon]
+- https://amzn.to/3IwkTxd[Amazon]
 
 === Leitura
 - _Status_: NaN/320
@@ -189,7 +189,7 @@ O livro trará uma série de artigos sobre Engenheria de Software. Muitos deles 
 == O Projeto Fênix: um Romance Sobre TI, DevOps e Sobre Ajudar o seu Negócio a Vencer
 
 === Onde comprar?
-- https://amzn.to/3aRdlH3[Amazon]
+- https://amzn.to/33cBF4n[Amazon]
 
 === Leitura
 - _Status_: 384/384 
@@ -200,7 +200,7 @@ O livro trará uma série de artigos sobre Engenheria de Software. Muitos deles 
 == Programação Funcional Para Desenvolvedores Java
 
 === Onde comprar?
-- https://amzn.to/38RpcCa[Amazon]
+- https://amzn.to/304XlOC[Amazon]
 
 === Leitura
 - _Stastus_: 112/112
@@ -212,7 +212,7 @@ Quer conhecer o básico de programação funcional? Leia! Quer se aprofundar? Es
 == Software Architecture in Practice 
 
 === Onde comprar?
-- https://amzn.to/3huvD1X[Amazon]
+- https://amzn.to/3GrbIfA[Amazon]
 
 === Leitura
 - _Status_: 119/640 
@@ -223,7 +223,7 @@ Quer ser Arquiteto de Software? Então essa série é um requisito pra você! En
 
 == The Art of Computer Programming
 === Onde comprar?
-- https://amzn.to/2KFLT4x[Amazon]
+- https://amzn.to/3dwkBZ1[Amazon]
 
 === Leitura
 - _Status_: NaN/3168
@@ -234,7 +234,7 @@ Quer ser Arquiteto de Software? Então essa série é um requisito pra você! En
 
 == The Pragmatic Programmer: your journey to mastery
 === Onde comprar?
-- https://amzn.to/3rIqbgT[Amazon]
+- https://amzn.to/3IowZIG[Amazon]
 
 === Leitura
 - _Status_: 352/352
